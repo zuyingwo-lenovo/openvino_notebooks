@@ -112,3 +112,9 @@ pipcache_openvino/
 
 # PySpelling generated dictionary
 .ci/spellcheck/dictionary
+notebooks/llm-chatbot/Qwen3-0.6B/
+notebooks/llm-lora/Qwen3-0.6B/
+notebooks/llm-lora/TinyLlama-1.1B-Chat-v1.0-int8-ov/
+notebooks/llm-lora/lora/
+**/llm_config.py
+**/notebook_utils.py
